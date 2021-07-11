@@ -1,0 +1,10 @@
+#btn1:active{
+  color: purple;
+  font-size: 40px;
+}
+#btn2:hover {
+  color: green;
+}
+#btn3:focus {
+  color: orange;
+}
